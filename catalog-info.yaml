@@ -1,0 +1,64 @@
+apiVersion: backstage.io/v1alpha1
+kind: Product
+metadata:
+  name: BackstageApplicationCatalog
+  annotations:
+    confluence/page: BackstageApplicationCatalog
+    createdBy: admin
+    createdFrom: Created from Backstage
+    createdAt: Wed Jun 19 2024 16:52:00 GMT+0530 (India Standard Time)
+    updatedFrom: ''
+    lastUpdatedAt: ''
+spec:
+  type: service
+  owner: guest
+  lifecycle: experimental
+  version: BackstageApplicationCatalog
+  projectInfo:
+    projectName: BackstageApplicationCatalog
+    moduleName: ''
+    informationAuthor: guest
+    modality:
+      - MR
+      - PET
+      - UL
+      - CT
+    bodyParts: Cardiac
+    processingPurpose: ''
+    protocol: ''
+    algorithmType: ''
+    packageType: ''
+    supportedOs: Windows
+    sourceCodeLanguage: ''
+    developmentStatus: RESEARCH / POC
+    linkToProject: ''
+  applicationInfo:
+    linkAPI: ''
+    inputImages: ''
+    inputValues: ''
+    outputImages: ''
+    outputValues: ''
+    limitations: ''
+    algorithmDevelopmentCompany: ''
+  productization:
+    productizedApplication: ''
+    function: ''
+    productizedOwner: ''
+    releaseNotes: ''
+    knowIssues: ''
+  evaluationInformation:
+    evaluationResults: ''
+    evaluationType: ''
+    clinicalData: ''
+  algorithmInformation:
+    developmentPurpose: ''
+    developmentStatus: ''
+    algorithmDevelopmentCompany: ''
+    personinCharge: ''
+    collaborativeResearchPartner: ''
+    existenceofExternalIP: ''
+  technologyInformationforCMRE:
+    fundingProject: ''
+    group: IMAGE ANALYSIS
+    TRL: TRL 5
+    projectStatus: RETIRED
